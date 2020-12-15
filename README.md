@@ -4,12 +4,12 @@ A ready to use priority queue for our coders community. Especially coders from t
 
 # Installation
 
-`npm i priority-queue`
+`npm i priority-queue-heap`
 
 Then...
 
 ```
-const PriorityQueue = require("priority-queue");
+const PriorityQueue = require("priority-queue-heap");
 
 // Our own custom compare function which we can pass while instantiating PriorityQueue
 

@@ -1,0 +1,23 @@
+{
+  "name": "priority-queue-heap",
+  "version": "1.0.0",
+  "description": "Custom priority queue for the coders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshk567/priority-queue-package.git"
+  },
+  "keywords": [
+    "priority-queue",
+    "priorityqueue"
+  ],
+  "author": "Hitesh Kumar Mahto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshk567/priority-queue-package/issues"
+  },
+  "homepage": "https://github.com/hiteshk567/priority-queue-package#readme"
+}
